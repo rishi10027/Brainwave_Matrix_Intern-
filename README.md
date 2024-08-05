@@ -1,5 +1,5 @@
 
-# News Classifier
+# NEWS AUTHENTICATOR
 
 This project is a web application built using Flask that classifies news articles as either "Fake News" or "True News" using several machine learning models.
 
