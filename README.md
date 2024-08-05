@@ -37,10 +37,9 @@ By default, the Flask server will be accessible at [http://127.0.0.1:5000](http:
 2. Enter a news article in the text area and click the "Classify" button.
 3. The application will display predictions from different models, indicating whether the news is classified as "Fake News" or "True News".
 
-## Example
-
-![Example Screenshot](https://via.placeholder.com/800x600.png?text=Example+Screenshot)  
-*(Replace with an actual screenshot of your application)*
+## Screenshots
+![image](https://github.com/user-attachments/assets/95ae77a1-5f7a-4df5-b162-1b143a2088af)
+![Screenshot 2024-08-05 161824](https://github.com/user-attachments/assets/3d25ee4c-8a3d-48b0-9145-0443b2b110e2)
 
 ## Notes
 
