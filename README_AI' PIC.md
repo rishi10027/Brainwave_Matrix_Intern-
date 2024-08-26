@@ -142,6 +142,10 @@ image.save("generated_image_3.png")
 ## Output
 
 After running the script, you should see the generated image displayed in a window. Additionally, the image will be saved as `generated_image_3.png` in the same directory as the script.
+![generated_image_3](https://github.com/user-attachments/assets/e0fa010f-c92f-4e06-856d-588194ccdfd6)
+![Screenshot 2024-08-25 180351](https://github.com/user-attachments/assets/6c55cb62-2588-41d9-a94c-314a740a1030)
+![Screenshot 2024-08-25 185259](https://github.com/user-attachments/assets/3e7dfde7-96bc-4b2c-831e-1127f295cd91)
+
 
 ## References
 
