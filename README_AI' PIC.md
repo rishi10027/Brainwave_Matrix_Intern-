@@ -1,4 +1,4 @@
-# AI" Pic: Text to Image Generator using Stable Diffusion
+# AI' Pic: Text to Image Generator using Stable Diffusion
 
 This project demonstrates how to generate an AI-generated image from a text prompt using the Stable Diffusion model. The model takes a text input and generates a corresponding image. In this example, the prompt used is "Hulk Smash," but it can be modified to generate different images based on various prompts.
 
